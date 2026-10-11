@@ -99,4 +99,6 @@ dog = Dog("Buddy", "Labrador")
 
 print(dog.name)          # Buddy
 print(dog.breed)         # Labrador
-print(dog.make_sound())  # Buddy barks: Woof!
+print(dog.make_sound())  # Buddy barks: Woof! 
+
+print("this is about the classed")
